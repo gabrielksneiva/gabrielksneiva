@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Krzyzanovski dos Santos Neiva
 
-- 🔭 Atualmente desempregado e estudante universitário.
+- 🔭 Atualmente em busca da primeira oportunidade.
 - 🌱 Aprendendo Desenvolvimento Web com Django através da linguagem Python.
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Estudante na Universidade Federal do ABC (UFABC), no curso Bacharelado em Ciência e Tecnologia (BC&T). Pretensão de especialização em Ciência da Computação e Engenharia Aeroespacial.
