@@ -14,7 +14,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Django" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-line.svg">
-  
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
   
   ##
